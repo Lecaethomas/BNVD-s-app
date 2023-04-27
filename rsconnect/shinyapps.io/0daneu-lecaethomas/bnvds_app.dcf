@@ -1,0 +1,13 @@
+name: bnvds_app
+title: bnvds_app
+username:
+account: 0daneu-lecaethomas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8906720
+bundleId: 7114188
+url: https://0daneu-lecaethomas.shinyapps.io/bnvds_app/
+when: 1682000358.68531
+lastSyncTime: 1682000358.68531
+asMultiple: FALSE
+asStatic: FALSE
