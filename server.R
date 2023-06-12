@@ -196,7 +196,6 @@ function(input, output, session) {
                # axis names from drop-down lists
                xaxis = list(title = input$plotvar_sel_x),
                yaxis = list(title = input$plotvar_sel_y))
-
     }
   })
 }
